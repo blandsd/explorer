@@ -1,0 +1,20 @@
+{
+    "chain_name": "composable-mainnet",
+    "api": ["https://rest.cosmos.directory/composable"],
+    "rpc": ["https://rpc-composable.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.3",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "addr_prefix": "centauri",
+    "logo": "/logos/composable.png",
+    "assets": [{
+        "base": "ppica",
+        "symbol": "PICA",
+        "exponent": "12",
+        "coingecko_id": "",
+        "logo": "/logos/composable.png"
+    }]
+  }
+  
