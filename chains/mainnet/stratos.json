@@ -7,13 +7,13 @@
     "sdk_version": "0.46.7",
     "coin_type": "118",
     "min_tx_fee": "5000",
-    "addr_prefix": "self",
-    "logo": "/logos/selfchain.png",
+    "addr_prefix": "stos",
+    "logo": "/logos/stratos.png",
     "assets": [{
-        "base": "uself",
-        "symbol": "SELF",
-        "exponent": "6",
-        "coingecko_id": "",
+        "base": "wei",
+        "symbol": "STOS",
+        "exponent": "18",
+        "coingecko_id": "stratos",
         "logo": "/logos/selfchain.png"
     }]
 }
