@@ -1,5 +1,5 @@
 {
-    "chain_name": "source",
+    "chain_name": "sge",
     "api": [
         {"provider": "NodeStake", "address": "https://api.source.nodestake.top"},
         {"provider": "offellNode", "address": "https://api-sge.offellnode.top"},
